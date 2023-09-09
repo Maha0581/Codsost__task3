@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.head1, #skills{
+    background-color: #c1f0b2;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:600px;
+    justify-content: center;
+    align-items: center;
+}
+.part1{
+    padding-top: 20px;
+    text-align: center;
+    padding-top: 20px;
+    margin: 30px;
+}
+.title{
+    padding-top: 20px;
+    color:navy;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 48px;
+}
+.desc{
+    padding-top: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 32px; 
+    text-align: center;
+    
+
+}
+.head1 .part2{
+    display: flex;
+    text-decoration: none;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    padding:10px;
+}
+.square{
+    padding-top: 60px;
+    width:150px;
+    height: 100px;
+    border-radius: 2px;
+    margin:15px;
+    border-radius: 8px;
+    border: 5px;
+    font-size: 32px;
+}
+.square a{
+    padding: 18px;
+    text-decoration: none;
+    background-color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.square:hover {
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.9);
+}
+
+h1{
+    text-align: left;
+}
+b{
+    color:chartreuse;
+}
+#about{
+    width:800px;
+    height:350px;
+    float: left;
+}
+.c img{
+    height: 400px;
+    width:400px;
+}
+.space1{
+    display: flex;
+}
+#about{
+    max-width: 700px;
+    padding: 5%;
+    font-size: 22px;
+}
+progress{
+    width: 500px;
+    height: 20px;
+    border: 2px solid rgb(136, 215, 215);
+}
+progress::-webkit-progress-value{
+    background-color: #c1f0b2;
+}
+progress::-webkit-progress-value{
+    background-color: rgb(247, 246, 246);
+}
+.f{
+    width:400px;
+    height:300px;
+    float: right;
+}
+#skills{
+    width: 1100px;
+    height: 350px;
+    background-color: #c1f0b2;
+    padding: 5%;
+}
+#cerification{
+    height: 250px;
+    font-style: bold;
+    font-size: large;
+    font-weight: 600;
+}
+#certification h2{
+    text-align: right;
+}
+dl{
+    
+    color: #c1f0b2;
+}
+.container-m{
+    background-color: #c1f0b2;
+    padding: 20px;
+}
+h1{
+    text-align: center;
+}
+
